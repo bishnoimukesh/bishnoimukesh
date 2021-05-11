@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Development
+- 💬 Ask me about html css js and react
 - 📫 Reach me on @mukeshbishnoi@gmail.com
                   @https://twitter.com/_mukeshbishnoi
                   @https://www.linkedin.com/in/bishnoimukesh/
