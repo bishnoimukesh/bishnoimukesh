@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukesh Bishnoi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Frontend Development
 - 💬 Ask me about html css js and react
 - 📫 Reach me on @mukeshbishnoi@gmail.com
