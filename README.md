@@ -25,7 +25,7 @@
   
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/_bishnoimukesh" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="_bishnoimukesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_bishnoimukesh" target="blank"><img src="https://img.shields.io/twitter/follow/_bishnoimukesh?logo=twitter&style=for-the-badge" alt="_bishnoimukesh" /></a> </p>
 
 - 📫 How to reach me **mukeshbishnoi@gmail.com**
 <br><br>
