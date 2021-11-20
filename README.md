@@ -27,7 +27,8 @@
 
 <p align="left"> <img alt="Twitter: _mukeshbishnoi" src="https://img.shields.io/twitter/follow/_mukeshbishnoi?style=social"></p>
 
-- 📫 How to reach me **mukeshbishnoi@gmail.com**
+📫 How to reach me 
+- **mukeshbishnoi@gmail.com**
 <br><br>
 <hr>
 
