@@ -20,15 +20,14 @@
 <p>
 <a align= "center" href="https://github.com/bishnoimukesh">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnoimukesh&theme=radical">
-<!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
+<img align="right" height="350" width="400" src="https://storyset.com/illustration/code-typing/pana/animate?share=32965" /> </a>
 </p>
   
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" />
 
 <p align="left"> <img alt="Twitter: _mukeshbishnoi" src="https://img.shields.io/twitter/follow/_mukeshbishnoi?style=social"></p>
 
-📫 How to reach me 
-- **mukeshbishnoi@gmail.com**
+- 📫 How to reach me **mukeshbishnoi@gmail.com**
 <br><br>
 <hr>
 
