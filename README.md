@@ -9,7 +9,7 @@
 <p>
 <a align= "center" href="https://github.com/bishnoimukesh">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnoimukesh&theme=radical">
-<img align="right" height="350" width="400" src="https://storyset.com/illustration/code-typing/pana/animate?share=32965" /> </a>
+<!-- <img align="right" height="350" width="400" src="https://storyset.com/illustration/code-typing/pana/animate?share=32965" /> </a> -->
 </p>
   
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" />
@@ -31,4 +31,5 @@
 
 <p align="center">
   <img src="https://github.com/bishnoimukesh/bishnoimukesh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  
 </p>
