@@ -18,7 +18,7 @@
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnoimukesh&label=PROFILE+VIEWS&style=flat-square&color=red" alt="mukesh" /> </p>
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
+<a align= "center" href="https://github.com/bishnoimukesh">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnoimukesh&theme=radical">
 <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 </p>
