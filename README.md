@@ -9,7 +9,8 @@
 <p>
 <a align= "center" href="https://github.com/bishnoimukesh">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnoimukesh&theme=radical">
-<!-- <img align="right" height="350" width="400" src="https://storyset.com/illustration/code-typing/pana/animate?share=32965" /> </a> -->
+<img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnoimukesh&theme=radical" /> </a>
+<!--          https://github-readme-stats.vercel.app/api/top-langs/?username={username} -->
 </p>
   
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" />
