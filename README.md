@@ -1,15 +1,4 @@
-<!-- - 👋 Hi, I’m Mukesh Bishnoi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Frontend Development
-- 💬 Ask me about html css js and react
-- 📫 Reach me on @mukeshbishnoi@gmail.com
-                  @https://twitter.com/_mukeshbishnoi
-                  @https://www.linkedin.com/in/bishnoimukesh/
-
- -->
- 
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Mukesh Bishnoi</h1>
@@ -39,3 +28,7 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="https://github.com/bishnoimukesh/bishnoimukesh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
