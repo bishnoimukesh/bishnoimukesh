@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Mukesh Bishnoi</h1>
 <h5 align="center">
-  An Electrical and Electronics graduate. I'm a full time frontend developer and aspiring full stack developer.
+  An Enthusiastic software engineer driven by passion for innovation and lifelong learning. Electrical and Electronics graduate. Currently working as a frontend developer and aspiring full stack developer.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnoimukesh&label=PROFILE+VIEWS&style=flat-square&color=red" alt="mukesh" /> </p>
 <p>
@@ -18,6 +18,8 @@
 <p align="left"> <img alt="Twitter: _mukeshbishnoi" src="https://img.shields.io/twitter/follow/_mukeshbishnoi?style=social"></p>
 
 - 📫 How to reach me **mukeshbishnoi@gmail.com**
+- Pick a slot if you'd like to talk and chat about anything you are passionate about - but make sure to describe the agenda
+<a href="https://calendly.com/mukeshbishnoi/chit_chat" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 <br><br>
 <hr>
 
@@ -26,7 +28,6 @@
          </a> <a href="https://twitter.com/_mukeshbishnoi" target="_blank"><img alt="Twitter-profile" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
          </a> <a href="https://www.linkedin.com/in/bishnoimukesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
          </a> <a href="https://hashnode.com/@bishnoimukesh" target="_blank"><img alt="Hashnode-profile" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-         </a> <a href="https://telegram.com/@_bishnoi_mukesh" target="_blank"><img alt="telegram-profile" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
          </a> <a href="https://whatsapp.com/@7877017305" target="_blank"><img alt="whatsapp-profile" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
          </a> <a href="https://gmail.com/@mukeshbishnoi" target="_blank"><img alt="whatsapp-profile" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -50,6 +51,11 @@
 <!--          <img src=""></img> -->
 </p>
 
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 <hr>
 
 <p align="center">
