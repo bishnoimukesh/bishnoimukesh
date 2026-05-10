@@ -16,7 +16,7 @@
 <!--          <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnoimukesh&theme=radical" /> </a> -->
 </p>
   
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" />
+<!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bishnoimukesh&count_private=true&theme=radical&show_icons=true" /> -->
 
 <hr/>
 
@@ -158,7 +158,7 @@ Pick a slot if you'd like to talk and chat about anything you are passionate abo
 <a href="https://calendly.com/mukeshbishnoi/chit_chat" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/bishnoimukesh/bishnoimukesh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   
-</p>
+</p> -->
